@@ -1,5 +1,5 @@
-import vinext from "vinext";
 import { defineConfig } from "vite";
+import vinext from "vinext";
 import { nitro } from "nitro/vite";
 import tailwindcss from "@tailwindcss/vite";
 
