@@ -7,6 +7,8 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     vinext(),
-    nitro(),
+    nitro({
+      preset: "vercel",
+    }),
   ],
 });

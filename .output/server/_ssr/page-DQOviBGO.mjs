@@ -1,1 +1,0 @@
-import{i as e,registerClientReference as t}from"./rsc.mjs";var n=t(()=>{throw Error(`Unexpectedly client reference export 'WeddingExperience' is called on server`)},`9834ebe8108e`,`WeddingExperience`),r=e();function i(){return(0,r.jsx)(n,{})}export{i as default};
